@@ -1,5 +1,3 @@
-import { rotateAndFillRect } from './rotateAndFill.js';
-
 export default function baseTree(ctx, {x, y, w, h}) {
 	const strokeW = w / 2;
 

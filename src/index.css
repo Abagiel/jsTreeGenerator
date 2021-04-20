@@ -25,8 +25,6 @@ canvas {
 }
 
 .card {
-	display: grid;
-	justify-content: center;
 	padding: 15px;
 
 	border-radius: 5px;
